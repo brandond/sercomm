@@ -1,7 +1,7 @@
 sercomm
 =======
 
-A Python interface Sercomm IP camera configuration
+A Python interface for Sercomm IP camera configuration
 
 Usage
 -----

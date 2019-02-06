@@ -25,7 +25,7 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Topic :: Multimedia :: Video :: Capture',
     ],
-    description='A Python interface Sercomm IP camera configuration',
+    description='A Python interface for Sercomm IP camera configuration',
     extras_require={
         'dev': [
             'setuptools-version-command'
