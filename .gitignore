@@ -1,0 +1,13 @@
+__pycache__
+**/*.pyc
+netdisco.egg-info/
+dist
+build
+pyvenv.cfg
+bin
+lib
+lib64
+pip-selfcheck.json
+.tox
+.pytest_cache/
+.mypy_cache/
